@@ -1,0 +1,17 @@
+/* Colorscheme definition */
+
+:root {
+	--main-bg-color: #1C2130;
+	--main-secondary-color: #D14334;
+	--main-green-color: #028F76;
+	--light-green-color: #B3E099;
+	--light-yellow-color: #FFEAAD;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.container {
+	display: flex;
+}
